@@ -1,4 +1,4 @@
-# Dart Day 2 – OOP & Advanced Concepts Lab
+# Dart Task 2 – OOP & Advanced Concepts Lab
 
 This repository contains a series of Dart exercises focused on Object-Oriented Programming (OOP) concepts such as classes, inheritance, encapsulation, abstraction, and static members. These tasks are part of my Dart learning journey in preparation for advanced Flutter development.
 
